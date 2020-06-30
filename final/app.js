@@ -103,6 +103,7 @@ function init() {
 
 
 console.log('base of the furthurres');
+console.log('furthur');
 
 //document.querySelector('#current-' + activePlayer).textContent = dice;
 //document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
